@@ -1,1 +1,2 @@
 This is beta version of my application.
+Day two of my Git.
